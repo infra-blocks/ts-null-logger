@@ -1,16 +1,17 @@
 {
-  "name": "@infra-blocks/lib-template",
+  "name": "@infra-blocks/null-logger",
   "version": "0.0.0",
-  "description": "This repository is a template to generate repositories meant to hold the source code of NPM packages written in TypeScript.",
+  "description": "This package exports a no-op implementation of the @infra-blocks/logger-interface.",
   "keywords": [
-    "template",
-    "typescript",
-    "esm",
-    "cjs"
+    "logger",
+    "null",
+    "noop",
+    "no-op",
+    "typescript"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/infra-blocks/ts-lib-template.git"
+    "url": "https://github.com/infra-blocks/ts-null-logger.git"
   },
   "license": "ISC",
   "author": "",
